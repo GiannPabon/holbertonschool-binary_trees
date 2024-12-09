@@ -95,3 +95,7 @@ This project was completed by:
 [LinkedIn Profile](https://www.linkedin.com/in/giannpabon/)  
 Hi, I’m Giann, a developer who is contributing to this project. I’m passionate about coding and binary trees. Feel free to connect with me to share ideas and discuss projects!
 
+**Carlos Valentin**
+[Github Profile](https://github.com/Cvalentin4153)
+[LinkedIn Profile](www.linkedin.com/in/carlos-valentin-24706b336)
+Hello, I'm Carlos, a collaborator in this project. Here are my links so we can connect!
