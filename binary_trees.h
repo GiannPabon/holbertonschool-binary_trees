@@ -15,10 +15,10 @@
  */
 struct binary_tree_s
 {
-    int n;
-    struct binary_tree_s *parent;
-    struct binary_tree_s *left;
-    struct binary_tree_s *right;
+int n;
+struct binary_tree_s *parent;
+struct binary_tree_s *left;
+struct binary_tree_s *right;
 };
 
 typedef struct binary_tree_s binary_tree_t;
@@ -49,3 +49,4 @@ int print_t(const binary_tree_t *tree, int offset, int depth, char **s);
 size_t _height(const binary_tree_t *tree);
 
 #endif
+
